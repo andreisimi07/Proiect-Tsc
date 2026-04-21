@@ -1,6 +1,10 @@
-# InkTime v5
+# InkTime
 
 Acest repository contine fisierele de design hardware, documentatia si detaliile de implementare pentru smartwatch. Inima sistemului este nRF52840 de la Nordic Semiconductor, ales pentru capabilitatile sale multiprotocol (Bluetooth LE, Thread, Zigbee) si consumul redus de energie.
+
+## Schema Bloc
+
+![Schema bloc](Images/schema.png)
 
 ## Bill of Materials (BOM)
 
