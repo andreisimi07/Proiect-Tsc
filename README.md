@@ -184,6 +184,7 @@ Erorile raportate pentru dimensiunea gaurilor de trecere (via drill size) au fos
 ### Mecanica (Mechanical)
 - **smartwatch_exploded_view.stp** – Vedere 3D explodata completa (PCB + baterie + ecran + carcasa).
 - **smartwatch.stp** – Vedere 3D completa a dispozitivului.
+- de exportat din autodesk fusion
 
 ### Imagini (Images)
 - **pcb_2d.png** – Prezentare 2D a cablajului.
